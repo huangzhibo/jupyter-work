@@ -1,0 +1,1889 @@
+{
+  "elements": [
+    {
+      "data": {
+        "id": "Cluster-11311.9424",
+        "label": "Cluster-11311.9424",
+        "type": "protein",
+        "degree": 4
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.60199",
+        "label": "Cluster-11311.60199",
+        "type": "protein",
+        "degree": 2
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.46369",
+        "label": "Cluster-11311.46369",
+        "type": "protein",
+        "degree": 2
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.301348",
+        "label": "Cluster-11311.301348",
+        "type": "protein",
+        "degree": 6
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.14028",
+        "label": "Cluster-11311.14028",
+        "type": "protein",
+        "degree": 2
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.89866",
+        "label": "Cluster-11311.89866",
+        "type": "protein",
+        "degree": 4
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.146722",
+        "label": "Cluster-11311.146722",
+        "type": "protein",
+        "degree": 8
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.35322",
+        "label": "Cluster-11311.35322",
+        "type": "protein",
+        "degree": 6
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-9566.11",
+        "label": "Cluster-9566.11",
+        "type": "protein",
+        "degree": 4
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.325221",
+        "label": "Cluster-11311.325221",
+        "type": "protein",
+        "degree": 8
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.30397",
+        "label": "Cluster-11311.30397",
+        "type": "protein",
+        "degree": 2
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.32131",
+        "label": "Cluster-11311.32131",
+        "type": "protein",
+        "degree": 4
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.117820",
+        "label": "Cluster-11311.117820",
+        "type": "protein",
+        "degree": 8
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.149752",
+        "label": "Cluster-11311.149752",
+        "type": "protein",
+        "degree": 2
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.30963",
+        "label": "Cluster-11311.30963",
+        "type": "protein",
+        "degree": 2
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.134052",
+        "label": "Cluster-11311.134052",
+        "type": "protein",
+        "degree": 2
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.80180",
+        "label": "Cluster-11311.80180",
+        "type": "protein",
+        "degree": 2
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.149039",
+        "label": "Cluster-11311.149039",
+        "type": "protein",
+        "degree": 2
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.319770",
+        "label": "Cluster-11311.319770",
+        "type": "protein",
+        "degree": 2
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.251832",
+        "label": "Cluster-11311.251832",
+        "type": "protein",
+        "degree": 6
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.175056",
+        "label": "Cluster-11311.175056",
+        "type": "protein",
+        "degree": 8
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.292898",
+        "label": "Cluster-11311.292898",
+        "type": "protein",
+        "degree": 4
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.142762",
+        "label": "Cluster-11311.142762",
+        "type": "protein",
+        "degree": 4
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-1221.9",
+        "label": "Cluster-1221.9",
+        "type": "protein",
+        "degree": 10
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.85329",
+        "label": "Cluster-11311.85329",
+        "type": "protein",
+        "degree": 2
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.86738",
+        "label": "Cluster-11311.86738",
+        "type": "protein",
+        "degree": 2
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.155833",
+        "label": "Cluster-11311.155833",
+        "type": "protein",
+        "degree": 4
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.295578",
+        "label": "Cluster-11311.295578",
+        "type": "protein",
+        "degree": 4
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.10470",
+        "label": "Cluster-11311.10470",
+        "type": "protein",
+        "degree": 4
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.107470",
+        "label": "Cluster-11311.107470",
+        "type": "protein",
+        "degree": 10
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.325156",
+        "label": "Cluster-11311.325156",
+        "type": "protein",
+        "degree": 4
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.191196",
+        "label": "Cluster-11311.191196",
+        "type": "protein",
+        "degree": 6
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.201475",
+        "label": "Cluster-11311.201475",
+        "type": "protein",
+        "degree": 2
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.109002",
+        "label": "Cluster-11311.109002",
+        "type": "protein",
+        "degree": 2
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.150767",
+        "label": "Cluster-11311.150767",
+        "type": "protein",
+        "degree": 6
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.106201",
+        "label": "Cluster-11311.106201",
+        "type": "protein",
+        "degree": 2
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.299663",
+        "label": "Cluster-11311.299663",
+        "type": "protein",
+        "degree": 4
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.91802",
+        "label": "Cluster-11311.91802",
+        "type": "protein",
+        "degree": 2
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.38464",
+        "label": "Cluster-11311.38464",
+        "type": "protein",
+        "degree": 2
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.201983",
+        "label": "Cluster-11311.201983",
+        "type": "protein",
+        "degree": 2
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.86898",
+        "label": "Cluster-11311.86898",
+        "type": "protein",
+        "degree": 2
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.84962",
+        "label": "Cluster-11311.84962",
+        "type": "protein",
+        "degree": 6
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.17224",
+        "label": "Cluster-11311.17224",
+        "type": "protein",
+        "degree": 20
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.86805",
+        "label": "Cluster-11311.86805",
+        "type": "protein",
+        "degree": 2
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.130545",
+        "label": "Cluster-11311.130545",
+        "type": "protein",
+        "degree": 4
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.319614",
+        "label": "Cluster-11311.319614",
+        "type": "protein",
+        "degree": 2
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.264954",
+        "label": "Cluster-11311.264954",
+        "type": "protein",
+        "degree": 2
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.119792",
+        "label": "Cluster-11311.119792",
+        "type": "protein",
+        "degree": 2
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.170230",
+        "label": "Cluster-11311.170230",
+        "type": "protein",
+        "degree": 6
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.233471",
+        "label": "Cluster-11311.233471",
+        "type": "protein",
+        "degree": 6
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.92113",
+        "label": "Cluster-11311.92113",
+        "type": "protein",
+        "degree": 4
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.250677",
+        "label": "Cluster-11311.250677",
+        "type": "protein",
+        "degree": 2
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.60316",
+        "label": "Cluster-11311.60316",
+        "type": "protein",
+        "degree": 2
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.230458",
+        "label": "Cluster-11311.230458",
+        "type": "protein",
+        "degree": 2
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.309811",
+        "label": "Cluster-11311.309811",
+        "type": "protein",
+        "degree": 2
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.125123",
+        "label": "Cluster-11311.125123",
+        "type": "protein",
+        "degree": 2
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.19684",
+        "label": "Cluster-11311.19684",
+        "type": "protein",
+        "degree": 2
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.219748",
+        "label": "Cluster-11311.219748",
+        "type": "protein",
+        "degree": 2
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.111411",
+        "label": "Cluster-11311.111411",
+        "type": "protein",
+        "degree": 4
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.88447",
+        "label": "Cluster-11311.88447",
+        "type": "protein",
+        "degree": 4
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.136875",
+        "label": "Cluster-11311.136875",
+        "type": "protein",
+        "degree": 4
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.134674",
+        "label": "Cluster-11311.134674",
+        "type": "protein",
+        "degree": 2
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.220570",
+        "label": "Cluster-11311.220570",
+        "type": "protein",
+        "degree": 4
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.126329",
+        "label": "Cluster-11311.126329",
+        "type": "protein",
+        "degree": 2
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.21377",
+        "label": "Cluster-11311.21377",
+        "type": "protein",
+        "degree": 2
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.137773",
+        "label": "Cluster-11311.137773",
+        "type": "protein",
+        "degree": 2
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.137662",
+        "label": "Cluster-11311.137662",
+        "type": "protein",
+        "degree": 2
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.141528",
+        "label": "Cluster-11311.141528",
+        "type": "protein",
+        "degree": 2
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.7344",
+        "label": "Cluster-11311.7344",
+        "type": "protein",
+        "degree": 2
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.191164",
+        "label": "Cluster-11311.191164",
+        "type": "protein",
+        "degree": 2
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.217065",
+        "label": "Cluster-11311.217065",
+        "type": "protein",
+        "degree": 2
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.139855",
+        "label": "Cluster-11311.139855",
+        "type": "protein",
+        "degree": 2
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.100981",
+        "label": "Cluster-11311.100981",
+        "type": "protein",
+        "degree": 2
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.302630",
+        "label": "Cluster-11311.302630",
+        "type": "protein",
+        "degree": 2
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.9424_Cluster-11311.60199",
+        "source": "Cluster-11311.9424",
+        "target": "Cluster-11311.60199",
+        "score": 419.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.9424_Cluster-11311.46369",
+        "source": "Cluster-11311.9424",
+        "target": "Cluster-11311.46369",
+        "score": 502.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.301348_Cluster-11311.14028",
+        "source": "Cluster-11311.301348",
+        "target": "Cluster-11311.14028",
+        "score": 569.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.301348_Cluster-11311.89866",
+        "source": "Cluster-11311.301348",
+        "target": "Cluster-11311.89866",
+        "score": 411.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.301348_Cluster-11311.146722",
+        "source": "Cluster-11311.301348",
+        "target": "Cluster-11311.146722",
+        "score": 464.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.35322_Cluster-9566.11",
+        "source": "Cluster-11311.35322",
+        "target": "Cluster-9566.11",
+        "score": 711.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.35322_Cluster-11311.325221",
+        "source": "Cluster-11311.35322",
+        "target": "Cluster-11311.325221",
+        "score": 586.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.35322_Cluster-11311.30397",
+        "source": "Cluster-11311.35322",
+        "target": "Cluster-11311.30397",
+        "score": 511.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.32131_Cluster-11311.117820",
+        "source": "Cluster-11311.32131",
+        "target": "Cluster-11311.117820",
+        "score": 522.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.32131_Cluster-11311.149752",
+        "source": "Cluster-11311.32131",
+        "target": "Cluster-11311.149752",
+        "score": 933.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.30963_Cluster-11311.134052",
+        "source": "Cluster-11311.30963",
+        "target": "Cluster-11311.134052",
+        "score": 419.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.80180_Cluster-11311.149039",
+        "source": "Cluster-11311.80180",
+        "target": "Cluster-11311.149039",
+        "score": 418.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.319770_Cluster-11311.251832",
+        "source": "Cluster-11311.319770",
+        "target": "Cluster-11311.251832",
+        "score": 511.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.175056_Cluster-11311.292898",
+        "source": "Cluster-11311.175056",
+        "target": "Cluster-11311.292898",
+        "score": 518.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.175056_Cluster-11311.142762",
+        "source": "Cluster-11311.175056",
+        "target": "Cluster-11311.142762",
+        "score": 451.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.175056_Cluster-1221.9",
+        "source": "Cluster-11311.175056",
+        "target": "Cluster-1221.9",
+        "score": 629.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.175056_Cluster-11311.85329",
+        "source": "Cluster-11311.175056",
+        "target": "Cluster-11311.85329",
+        "score": 702.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.86738_Cluster-11311.146722",
+        "source": "Cluster-11311.86738",
+        "target": "Cluster-11311.146722",
+        "score": 512.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.155833_Cluster-11311.295578",
+        "source": "Cluster-11311.155833",
+        "target": "Cluster-11311.295578",
+        "score": 475.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.155833_Cluster-11311.10470",
+        "source": "Cluster-11311.155833",
+        "target": "Cluster-11311.10470",
+        "score": 500.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.325221_Cluster-9566.11",
+        "source": "Cluster-11311.325221",
+        "target": "Cluster-9566.11",
+        "score": 428.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.325221_Cluster-11311.35322",
+        "source": "Cluster-11311.325221",
+        "target": "Cluster-11311.35322",
+        "score": 586.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.325221_Cluster-11311.107470",
+        "source": "Cluster-11311.325221",
+        "target": "Cluster-11311.107470",
+        "score": 429.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.325221_Cluster-11311.325156",
+        "source": "Cluster-11311.325221",
+        "target": "Cluster-11311.325156",
+        "score": 629.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.191196_Cluster-11311.201475",
+        "source": "Cluster-11311.191196",
+        "target": "Cluster-11311.201475",
+        "score": 459.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.191196_Cluster-11311.109002",
+        "source": "Cluster-11311.191196",
+        "target": "Cluster-11311.109002",
+        "score": 459.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.191196_Cluster-11311.150767",
+        "source": "Cluster-11311.191196",
+        "target": "Cluster-11311.150767",
+        "score": 547.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.106201_Cluster-11311.299663",
+        "source": "Cluster-11311.106201",
+        "target": "Cluster-11311.299663",
+        "score": 430.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.150767_Cluster-11311.191196",
+        "source": "Cluster-11311.150767",
+        "target": "Cluster-11311.191196",
+        "score": 547.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.150767_Cluster-11311.91802",
+        "source": "Cluster-11311.150767",
+        "target": "Cluster-11311.91802",
+        "score": 437.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.150767_Cluster-11311.38464",
+        "source": "Cluster-11311.150767",
+        "target": "Cluster-11311.38464",
+        "score": 437.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.201983_Cluster-11311.86898",
+        "source": "Cluster-11311.201983",
+        "target": "Cluster-11311.86898",
+        "score": 455.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.84962_Cluster-11311.17224",
+        "source": "Cluster-11311.84962",
+        "target": "Cluster-11311.17224",
+        "score": 637.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.84962_Cluster-11311.86805",
+        "source": "Cluster-11311.84962",
+        "target": "Cluster-11311.86805",
+        "score": 417.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.84962_Cluster-11311.130545",
+        "source": "Cluster-11311.84962",
+        "target": "Cluster-11311.130545",
+        "score": 971.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.89866_Cluster-11311.301348",
+        "source": "Cluster-11311.89866",
+        "target": "Cluster-11311.301348",
+        "score": 411.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.89866_Cluster-11311.146722",
+        "source": "Cluster-11311.89866",
+        "target": "Cluster-11311.146722",
+        "score": 495.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.319614_Cluster-11311.17224",
+        "source": "Cluster-11311.319614",
+        "target": "Cluster-11311.17224",
+        "score": 580.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.264954_Cluster-11311.17224",
+        "source": "Cluster-11311.264954",
+        "target": "Cluster-11311.17224",
+        "score": 415.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.119792_Cluster-11311.170230",
+        "source": "Cluster-11311.119792",
+        "target": "Cluster-11311.170230",
+        "score": 450.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.146722_Cluster-11311.89866",
+        "source": "Cluster-11311.146722",
+        "target": "Cluster-11311.89866",
+        "score": 495.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.146722_Cluster-11311.86738",
+        "source": "Cluster-11311.146722",
+        "target": "Cluster-11311.86738",
+        "score": 512.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.146722_Cluster-11311.107470",
+        "source": "Cluster-11311.146722",
+        "target": "Cluster-11311.107470",
+        "score": 521.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.146722_Cluster-11311.301348",
+        "source": "Cluster-11311.146722",
+        "target": "Cluster-11311.301348",
+        "score": 464.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.233471_Cluster-11311.92113",
+        "source": "Cluster-11311.233471",
+        "target": "Cluster-11311.92113",
+        "score": 432.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.233471_Cluster-11311.250677",
+        "source": "Cluster-11311.233471",
+        "target": "Cluster-11311.250677",
+        "score": 433.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.233471_Cluster-11311.117820",
+        "source": "Cluster-11311.233471",
+        "target": "Cluster-11311.117820",
+        "score": 404.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.91802_Cluster-11311.150767",
+        "source": "Cluster-11311.91802",
+        "target": "Cluster-11311.150767",
+        "score": 437.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.142762_Cluster-1221.9",
+        "source": "Cluster-11311.142762",
+        "target": "Cluster-1221.9",
+        "score": 998.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.142762_Cluster-11311.175056",
+        "source": "Cluster-11311.142762",
+        "target": "Cluster-11311.175056",
+        "score": 451.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.60316_Cluster-11311.107470",
+        "source": "Cluster-11311.60316",
+        "target": "Cluster-11311.107470",
+        "score": 736.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.299663_Cluster-11311.106201",
+        "source": "Cluster-11311.299663",
+        "target": "Cluster-11311.106201",
+        "score": 430.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.299663_Cluster-11311.230458",
+        "source": "Cluster-11311.299663",
+        "target": "Cluster-11311.230458",
+        "score": 439.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.309811_Cluster-1221.9",
+        "source": "Cluster-11311.309811",
+        "target": "Cluster-1221.9",
+        "score": 401.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.149039_Cluster-11311.80180",
+        "source": "Cluster-11311.149039",
+        "target": "Cluster-11311.80180",
+        "score": 418.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.250677_Cluster-11311.233471",
+        "source": "Cluster-11311.250677",
+        "target": "Cluster-11311.233471",
+        "score": 433.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.295578_Cluster-11311.155833",
+        "source": "Cluster-11311.295578",
+        "target": "Cluster-11311.155833",
+        "score": 475.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.295578_Cluster-11311.10470",
+        "source": "Cluster-11311.295578",
+        "target": "Cluster-11311.10470",
+        "score": 472.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.125123_Cluster-11311.19684",
+        "source": "Cluster-11311.125123",
+        "target": "Cluster-11311.19684",
+        "score": 902.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.219748_Cluster-11311.170230",
+        "source": "Cluster-11311.219748",
+        "target": "Cluster-11311.170230",
+        "score": 600.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.170230_Cluster-11311.219748",
+        "source": "Cluster-11311.170230",
+        "target": "Cluster-11311.219748",
+        "score": 600.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.170230_Cluster-11311.119792",
+        "source": "Cluster-11311.170230",
+        "target": "Cluster-11311.119792",
+        "score": 450.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.170230_Cluster-11311.92113",
+        "source": "Cluster-11311.170230",
+        "target": "Cluster-11311.92113",
+        "score": 408.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.86805_Cluster-11311.84962",
+        "source": "Cluster-11311.86805",
+        "target": "Cluster-11311.84962",
+        "score": 417.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.130545_Cluster-11311.84962",
+        "source": "Cluster-11311.130545",
+        "target": "Cluster-11311.84962",
+        "score": 971.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.130545_Cluster-11311.17224",
+        "source": "Cluster-11311.130545",
+        "target": "Cluster-11311.17224",
+        "score": 643.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.111411_Cluster-11311.88447",
+        "source": "Cluster-11311.111411",
+        "target": "Cluster-11311.88447",
+        "score": 900.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.111411_Cluster-11311.136875",
+        "source": "Cluster-11311.111411",
+        "target": "Cluster-11311.136875",
+        "score": 900.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.134674_Cluster-11311.220570",
+        "source": "Cluster-11311.134674",
+        "target": "Cluster-11311.220570",
+        "score": 416.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.14028_Cluster-11311.301348",
+        "source": "Cluster-11311.14028",
+        "target": "Cluster-11311.301348",
+        "score": 569.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-9566.11_Cluster-11311.325221",
+        "source": "Cluster-9566.11",
+        "target": "Cluster-11311.325221",
+        "score": 428.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-9566.11_Cluster-11311.35322",
+        "source": "Cluster-9566.11",
+        "target": "Cluster-11311.35322",
+        "score": 711.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.126329_Cluster-11311.117820",
+        "source": "Cluster-11311.126329",
+        "target": "Cluster-11311.117820",
+        "score": 408.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.21377_Cluster-11311.137773",
+        "source": "Cluster-11311.21377",
+        "target": "Cluster-11311.137773",
+        "score": 555.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.137662_Cluster-11311.141528",
+        "source": "Cluster-11311.137662",
+        "target": "Cluster-11311.141528",
+        "score": 480.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.292898_Cluster-11311.175056",
+        "source": "Cluster-11311.292898",
+        "target": "Cluster-11311.175056",
+        "score": 518.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.292898_Cluster-1221.9",
+        "source": "Cluster-11311.292898",
+        "target": "Cluster-1221.9",
+        "score": 478.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.17224_Cluster-11311.117820",
+        "source": "Cluster-11311.17224",
+        "target": "Cluster-11311.117820",
+        "score": 480.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.17224_Cluster-1221.9",
+        "source": "Cluster-11311.17224",
+        "target": "Cluster-1221.9",
+        "score": 401.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.17224_Cluster-11311.325156",
+        "source": "Cluster-11311.17224",
+        "target": "Cluster-11311.325156",
+        "score": 466.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.17224_Cluster-11311.84962",
+        "source": "Cluster-11311.17224",
+        "target": "Cluster-11311.84962",
+        "score": 637.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.17224_Cluster-11311.7344",
+        "source": "Cluster-11311.17224",
+        "target": "Cluster-11311.7344",
+        "score": 447.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.17224_Cluster-11311.264954",
+        "source": "Cluster-11311.17224",
+        "target": "Cluster-11311.264954",
+        "score": 415.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.17224_Cluster-11311.191164",
+        "source": "Cluster-11311.17224",
+        "target": "Cluster-11311.191164",
+        "score": 965.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.17224_Cluster-11311.220570",
+        "source": "Cluster-11311.17224",
+        "target": "Cluster-11311.220570",
+        "score": 525.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.17224_Cluster-11311.319614",
+        "source": "Cluster-11311.17224",
+        "target": "Cluster-11311.319614",
+        "score": 580.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.17224_Cluster-11311.130545",
+        "source": "Cluster-11311.17224",
+        "target": "Cluster-11311.130545",
+        "score": 643.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.230458_Cluster-11311.299663",
+        "source": "Cluster-11311.230458",
+        "target": "Cluster-11311.299663",
+        "score": 439.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.141528_Cluster-11311.137662",
+        "source": "Cluster-11311.141528",
+        "target": "Cluster-11311.137662",
+        "score": 480.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.117820_Cluster-11311.32131",
+        "source": "Cluster-11311.117820",
+        "target": "Cluster-11311.32131",
+        "score": 522.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.117820_Cluster-11311.17224",
+        "source": "Cluster-11311.117820",
+        "target": "Cluster-11311.17224",
+        "score": 480.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.117820_Cluster-11311.126329",
+        "source": "Cluster-11311.117820",
+        "target": "Cluster-11311.126329",
+        "score": 408.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.117820_Cluster-11311.233471",
+        "source": "Cluster-11311.117820",
+        "target": "Cluster-11311.233471",
+        "score": 404.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.46369_Cluster-11311.9424",
+        "source": "Cluster-11311.46369",
+        "target": "Cluster-11311.9424",
+        "score": 502.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.217065_Cluster-11311.139855",
+        "source": "Cluster-11311.217065",
+        "target": "Cluster-11311.139855",
+        "score": 684.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.134052_Cluster-11311.30963",
+        "source": "Cluster-11311.134052",
+        "target": "Cluster-11311.30963",
+        "score": 419.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.137773_Cluster-11311.21377",
+        "source": "Cluster-11311.137773",
+        "target": "Cluster-11311.21377",
+        "score": 555.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.149752_Cluster-11311.32131",
+        "source": "Cluster-11311.149752",
+        "target": "Cluster-11311.32131",
+        "score": 933.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.251832_Cluster-11311.100981",
+        "source": "Cluster-11311.251832",
+        "target": "Cluster-11311.100981",
+        "score": 438.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.251832_Cluster-11311.319770",
+        "source": "Cluster-11311.251832",
+        "target": "Cluster-11311.319770",
+        "score": 511.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.251832_Cluster-11311.107470",
+        "source": "Cluster-11311.251832",
+        "target": "Cluster-11311.107470",
+        "score": 404.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.139855_Cluster-11311.217065",
+        "source": "Cluster-11311.139855",
+        "target": "Cluster-11311.217065",
+        "score": 684.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.100981_Cluster-11311.251832",
+        "source": "Cluster-11311.100981",
+        "target": "Cluster-11311.251832",
+        "score": 438.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.19684_Cluster-11311.125123",
+        "source": "Cluster-11311.19684",
+        "target": "Cluster-11311.125123",
+        "score": 902.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.325156_Cluster-11311.325221",
+        "source": "Cluster-11311.325156",
+        "target": "Cluster-11311.325221",
+        "score": 629.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.325156_Cluster-11311.17224",
+        "source": "Cluster-11311.325156",
+        "target": "Cluster-11311.17224",
+        "score": 466.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.302630_Cluster-11311.107470",
+        "source": "Cluster-11311.302630",
+        "target": "Cluster-11311.107470",
+        "score": 630.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.201475_Cluster-11311.191196",
+        "source": "Cluster-11311.201475",
+        "target": "Cluster-11311.191196",
+        "score": 459.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.92113_Cluster-11311.170230",
+        "source": "Cluster-11311.92113",
+        "target": "Cluster-11311.170230",
+        "score": 408.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.92113_Cluster-11311.233471",
+        "source": "Cluster-11311.92113",
+        "target": "Cluster-11311.233471",
+        "score": 432.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.10470_Cluster-11311.155833",
+        "source": "Cluster-11311.10470",
+        "target": "Cluster-11311.155833",
+        "score": 500.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.10470_Cluster-11311.295578",
+        "source": "Cluster-11311.10470",
+        "target": "Cluster-11311.295578",
+        "score": 472.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.136875_Cluster-11311.88447",
+        "source": "Cluster-11311.136875",
+        "target": "Cluster-11311.88447",
+        "score": 901.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.136875_Cluster-11311.111411",
+        "source": "Cluster-11311.136875",
+        "target": "Cluster-11311.111411",
+        "score": 900.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.88447_Cluster-11311.111411",
+        "source": "Cluster-11311.88447",
+        "target": "Cluster-11311.111411",
+        "score": 900.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.88447_Cluster-11311.136875",
+        "source": "Cluster-11311.88447",
+        "target": "Cluster-11311.136875",
+        "score": 901.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-1221.9_Cluster-11311.292898",
+        "source": "Cluster-1221.9",
+        "target": "Cluster-11311.292898",
+        "score": 478.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-1221.9_Cluster-11311.142762",
+        "source": "Cluster-1221.9",
+        "target": "Cluster-11311.142762",
+        "score": 998.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-1221.9_Cluster-11311.309811",
+        "source": "Cluster-1221.9",
+        "target": "Cluster-11311.309811",
+        "score": 401.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-1221.9_Cluster-11311.17224",
+        "source": "Cluster-1221.9",
+        "target": "Cluster-11311.17224",
+        "score": 401.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-1221.9_Cluster-11311.175056",
+        "source": "Cluster-1221.9",
+        "target": "Cluster-11311.175056",
+        "score": 629.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.220570_Cluster-11311.134674",
+        "source": "Cluster-11311.220570",
+        "target": "Cluster-11311.134674",
+        "score": 416.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.220570_Cluster-11311.17224",
+        "source": "Cluster-11311.220570",
+        "target": "Cluster-11311.17224",
+        "score": 525.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.60199_Cluster-11311.9424",
+        "source": "Cluster-11311.60199",
+        "target": "Cluster-11311.9424",
+        "score": 419.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.30397_Cluster-11311.35322",
+        "source": "Cluster-11311.30397",
+        "target": "Cluster-11311.35322",
+        "score": 511.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.107470_Cluster-11311.302630",
+        "source": "Cluster-11311.107470",
+        "target": "Cluster-11311.302630",
+        "score": 630.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.107470_Cluster-11311.60316",
+        "source": "Cluster-11311.107470",
+        "target": "Cluster-11311.60316",
+        "score": 736.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.107470_Cluster-11311.251832",
+        "source": "Cluster-11311.107470",
+        "target": "Cluster-11311.251832",
+        "score": 404.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.107470_Cluster-11311.325221",
+        "source": "Cluster-11311.107470",
+        "target": "Cluster-11311.325221",
+        "score": 429.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.107470_Cluster-11311.146722",
+        "source": "Cluster-11311.107470",
+        "target": "Cluster-11311.146722",
+        "score": 521.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.38464_Cluster-11311.150767",
+        "source": "Cluster-11311.38464",
+        "target": "Cluster-11311.150767",
+        "score": 437.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.109002_Cluster-11311.191196",
+        "source": "Cluster-11311.109002",
+        "target": "Cluster-11311.191196",
+        "score": 459.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.86898_Cluster-11311.201983",
+        "source": "Cluster-11311.86898",
+        "target": "Cluster-11311.201983",
+        "score": 455.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.191164_Cluster-11311.17224",
+        "source": "Cluster-11311.191164",
+        "target": "Cluster-11311.17224",
+        "score": 965.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.7344_Cluster-11311.17224",
+        "source": "Cluster-11311.7344",
+        "target": "Cluster-11311.17224",
+        "score": 447.0,
+        "interaction": "PPI"
+      }
+    },
+    {
+      "data": {
+        "id": "Cluster-11311.85329_Cluster-11311.175056",
+        "source": "Cluster-11311.85329",
+        "target": "Cluster-11311.175056",
+        "score": 702.0,
+        "interaction": "PPI"
+      }
+    }
+  ],
+  "style": [
+    {
+      "selector": "node",
+      "style": {
+        "background-color": "#ff8c42",
+        "border-color": "#d67635",
+        "border-width": "1px",
+        "opacity": 0.8,
+        "width": "mapData(degree, 0, 20, 20, 70)",
+        "height": "mapData(degree, 0, 20, 20, 70)",
+        "label": "data(label)",
+        "font-size": "mapData(degree, 0, 20, 10, 18)",
+        "font-weight": "bold",
+        "color": "#333333",
+        "text-outline-width": "1px",
+        "text-outline-color": "#ffffff",
+        "text-valign": "center",
+        "text-halign": "right"
+      }
+    },
+    {
+      "selector": "edge",
+      "style": {
+        "width": "3px",
+        "line-color": "#cccccc",
+        "opacity": 0.6,
+        "curve-style": "straight",
+        "target-arrow-shape": "none"
+      }
+    },
+    {
+      "selector": "node:selected",
+      "style": {
+        "background-color": "#ff6b1a",
+        "border-color": "#cc5500",
+        "border-width": "5px"
+      }
+    },
+    {
+      "selector": "edge:selected",
+      "style": {
+        "line-color": "#666666",
+        "width": "4px",
+        "opacity": 1.0
+      }
+    }
+  ],
+  "layout": {
+    "name": "circle",
+    "fit": true,
+    "padding": 50,
+    "boundingBox": {
+      "x1": 0,
+      "y1": 0,
+      "w": 600,
+      "h": 600
+    },
+    "avoidOverlap": false,
+    "nodeDimensionsIncludeLabels": false,
+    "spacingFactor": 1.7,
+    "radius": 280,
+    "startAngle": 0,
+    "sweep": 6.195135135135135,
+    "clockwise": true,
+    "sort": true,
+    "animate": true,
+    "animationDuration": 2000,
+    "animationEasing": "ease-in-out"
+  }
+}

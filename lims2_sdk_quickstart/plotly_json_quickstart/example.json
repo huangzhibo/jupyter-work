@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "type": "scatter",
+      "x": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "y": [
+        2,
+        4,
+        3,
+        5,
+        6
+      ],
+      "mode": "lines+markers",
+      "name": "Sample Data",
+      "line": {
+        "color": "#4facfe",
+        "width": 3
+      },
+      "marker": {
+        "size": 8,
+        "color": "#667eea"
+      }
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "Plotly Example Chart",
+      "x": 0.5,
+      "font": {
+        "size": 20
+      }
+    },
+    "xaxis": {
+      "title": "X Axis"
+    },
+    "yaxis": {
+      "title": "Y Axis"
+    },
+    "plot_bgcolor": "white",
+    "paper_bgcolor": "white"
+  }
+}
