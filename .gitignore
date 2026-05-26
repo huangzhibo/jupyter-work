@@ -8,3 +8,17 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Generated files
+*.pdf
+*.ipynb.html
+
+# Data files
+蛋白json.json
+蛋白json.webgl.json
