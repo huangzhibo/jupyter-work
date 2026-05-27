@@ -28,21 +28,26 @@
   ```
 - 安装后将提示将 `~/.local/bin` 加入 `PATH`，按提示更新 shell 配置即可。
 
+## 项目结构
+
+```
+plotly_quickstart/          # Plotly/Cytoscape 图表生成、预览与上传
+  plotly_python.ipynb       # Python 生成 Plotly JSON + SDK 上传
+  plotly_r.ipynb            # R (ggplot2) 生成 Plotly JSON
+  thumbnail.ipynb           # 从 Plotly JSON 生成缩略图
+  plotly_viewer_v2.html     # 图表查看器（支持拖拽）
+  lims2_sdk.md              # lims2-sdk 完整文档
+```
+
 ## 使用 uv 启动 JupyterLab
 1. 在仓库根目录同步依赖：
    ```bash
    uv sync
    ```
-2. 在隔离环境中启动 JupyterLab（默认打开当前目录）：
+2. 启动 JupyterLab：
    ```bash
    uv run jupyter lab
    ```
-3. 若需指定 lims2_sdk_quickstart 目录，可添加 `--notebook-dir` 参数：
-   ```bash
-   uv run jupyter lab --notebook-dir lims2_sdk_quickstart
-   ```
 
 ## 常用命令
-- `uv run python main.py`：运行项目的 CLI 入口。
-- `uv run pytest`：执行测试套件，可配合 `-k "pattern"` 过滤测试。
 - `uv add <package>`：添加依赖并同步更新 `pyproject.toml` 与 `uv.lock`。
