@@ -13,7 +13,7 @@ plotly_quickstart/          # Plotly/Cytoscape 图表生成、预览与上传
   plotly_python.ipynb       # Python 生成 Plotly JSON + SDK 上传
   plotly_r.ipynb            # R (ggplot2) 生成 Plotly JSON
   thumbnail.ipynb           # 从 Plotly JSON 生成缩略图
-  plotly_viewer_v2.html     # 图表查看器（支持拖拽）
+  plotly_viewer_v3.html     # 图表查看器（支持拖拽）
   lims2_sdk.md              # lims2-sdk 完整文档
 ```
 

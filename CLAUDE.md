@@ -20,7 +20,7 @@ uv add <package>            # 添加依赖
   - `plotly_python.ipynb` — Python 生成 Plotly JSON，末尾演示 lims2-sdk 上传
   - `plotly_r.ipynb` — R (ggplot2) 生成 Plotly JSON
   - `thumbnail.ipynb` — 从 Plotly JSON 生成缩略图（Kaleido + PIL）
-  - `plotly_viewer_v2.html` — 独立 HTML 图表查看器（Plotly + Cytoscape，支持拖拽）
+  - `plotly_viewer_v3.html` — 独立 HTML 图表查看器（Plotly + Cytoscape，支持拖拽）
   - `PPINetwork.py` — PPI 网络 Cytoscape JSON 生成脚本
   - `lims2_sdk.md` — lims2-sdk CLI 和 Python API 文档
 
