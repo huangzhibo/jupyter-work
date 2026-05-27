@@ -12,7 +12,6 @@ Plotly / Cytoscape 图表生成、预览与上传的完整工作流。
 
 - `plotly_viewer_v2.html` - 图表查看器（支持拖拽、Plotly & Cytoscape）
 - `PPINetwork.py` - 蛋白质相互作用网络可视化生成器
-- `Plotly_Quick_Start.md` - Plotly 快速入门参考
 
 ## 样例数据
 

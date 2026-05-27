@@ -23,7 +23,6 @@ uv add <package>            # 添加依赖
   - `plotly_viewer_v2.html` — 独立 HTML 图表查看器（Plotly + Cytoscape，支持拖拽）
   - `PPINetwork.py` — PPI 网络 Cytoscape JSON 生成脚本
   - `lims2_sdk.md` — lims2-sdk CLI 和 Python API 文档
-- `main.py` — 占位入口，当前仅 print
 
 ## Key Conventions
 
