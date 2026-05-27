@@ -1,32 +1,10 @@
 # Jupyter Work
 
-## 安装 uv
-### macOS
-- 使用 Homebrew：
-  ```bash
-  brew install uv
-  ```
-- 如果未安装 Homebrew，可使用官方安装脚本：
-  ```bash
-  curl -LsSf https://astral.sh/uv/install.sh | sh
-  ```
+Plotly/Cytoscape 图表生成、预览与上传工作区。
 
-### Windows
-- 通过 Winget 安装（需 Windows 10/11 并启用 Winget）：
-  ```powershell
-  winget install astral-sh.uv
-  ```
-- 若无法使用 Winget，可在 PowerShell（管理员）中运行安装脚本：
-  ```powershell
-  powershell -ExecutionPolicy Bypass -Command "irm https://astral.sh/uv/install.ps1 | iex"
-  ```
+## 前置条件
 
-### Linux
-- 大多数发行版可直接使用官方脚本安装：
-  ```bash
-  curl -LsSf https://astral.sh/uv/install.sh | sh
-  ```
-- 安装后将提示将 `~/.local/bin` 加入 `PATH`，按提示更新 shell 配置即可。
+安装 [uv](https://docs.astral.sh/uv/getting-started/installation/)（Python 包管理器）。
 
 ## 项目结构
 
